@@ -1,5 +1,7 @@
 # Apple-M1-Air-2020
 
+## For M1 macs only.
+
 TBW is utility to look quickly ssd TBW (Total Bytes Written) level.
 
 WatchTBW is utility to monitor the size of the data recording on the internal drive and warn about high values, as well as keep a log of checks every half hour.
