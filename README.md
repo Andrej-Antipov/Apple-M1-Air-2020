@@ -24,4 +24,6 @@ Description in russian:
 
 ![Theme customizable GUI](https://github.com/Andrej-Antipov/Apple-M1-Air-2020/blob/main/screens/1.png)
 
+![Theme customizable GUI](https://github.com/Andrej-Antipov/Apple-M1-Air-2020/blob/main/screens/Снимок%20экрана%202021-04-15%20в%2002.18.59.png)
+
 ![Theme customizable GUI](https://github.com/Andrej-Antipov/Apple-M1-Air-2020/blob/main/screens/Снимок%20экрана%202021-04-15%20в%2002.12.47.png)
