@@ -16,6 +16,9 @@ Warning levels Gb:
 - Twelve: 500
 - Day: 900
 
+## Usage
+Download applet. Execute terminal command xattr -rc /applet path/ (drag'n'drop the applet on terminal window after that command) and lounch the applet.
+
 Description in russian:
 1. Мониторинг TBW  - подробности [TBW](https://www.applelife.ru/threads/macbook-air-m1-2020-macbookair10-1.2945564/page-9#post-931268)
 2. Агент мониторинга с логом [WatchTBW](https://www.applelife.ru/threads/macbook-air-m1-2020-macbookair10-1.2945564/page-10#post-931456)
